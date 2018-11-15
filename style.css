@@ -1,0 +1,9 @@
+html,body{
+	background: white;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%;
+	margin: 0, auto;
+	text-align: center;
+}
